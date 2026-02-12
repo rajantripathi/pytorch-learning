@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(C:\\\\Users\\\\rajan\\\\anaconda3\\\\envs\\\\envpytorch\\\\python.exe -m pip install:*)",
+      "Bash(conda run:*)",
+      "Bash(timeout:*)",
+      "Bash(conda env:*)",
+      "Bash(git remote set-url:*)",
+      "Bash(git branch:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
+    ]
+  }
+}
